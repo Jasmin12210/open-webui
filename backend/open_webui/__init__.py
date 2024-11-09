@@ -1,6 +1,8 @@
 import base64
 import os
 import random
+import WebUI
+import WebComponents
 from pathlib import Path
 
 import typer
